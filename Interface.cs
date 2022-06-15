@@ -3,9 +3,7 @@ using System.Collections.Generic;
 using System.IO;
 using QRCoder;
 using MySql.Data.MySqlClient;
-
-
-
+using System.Diagnostics;
 
 namespace PPE_BelleTable
 {
@@ -81,7 +79,10 @@ namespace PPE_BelleTable
             monStreamWriter.WriteLine("<html>");
             
             monStreamWriter.Close();
-            
+            Process lancement = new Process();
+            lancement.StartInfo.FileName = @"C:/Users/guill/source/repos/PPE_BelleTable/bin/Debug/netcoreapp3.1/BadgeSalon.html";
+            lancement.Start();
+            //Console.ReadKey()
         }
 
         public static void RechercherParticipant(DBConnection DataBaseConnection, MySqlDataReader TheReader)

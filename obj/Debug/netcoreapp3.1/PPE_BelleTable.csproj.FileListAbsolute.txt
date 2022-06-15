@@ -35,3 +35,4 @@ C:\Users\guill\source\repos\PPE_BelleTable\obj\Debug\netcoreapp3.1\PPE_BelleTabl
 C:\Users\guill\source\repos\PPE_BelleTable\obj\Debug\netcoreapp3.1\PPE_BelleTable.FormAdd.resources
 C:\Users\guill\source\repos\PPE_BelleTable\obj\Debug\netcoreapp3.1\PPE_BelleTable.FormIncident.resources
 C:\Users\guill\source\repos\PPE_BelleTable\obj\Debug\netcoreapp3.1\PPE_BelleTable.FormSearch.resources
+C:\Users\guill\source\repos\PPE_BelleTable\obj\Debug\netcoreapp3.1\PPE_BelleTable.PageParticipant.resources

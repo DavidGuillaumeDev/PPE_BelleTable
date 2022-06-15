@@ -28,6 +28,14 @@ namespace PPE_BelleTable
             //this.Close();
         }
 
-        
+        private void buttonUpdate_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void buttonAllParticipant_Click(object sender, EventArgs e)
+        {
+
+        }
     }
 }
